@@ -1,0 +1,98 @@
+{
+  "README_제출및검증.md": {
+    "bytes": 2202,
+    "sha256": "3f06408c92ea4d8503e8dc3d99e12ec5b3aa33b038730fe9ea747a003ce584f8"
+  },
+  "Assignment-3_Report_전희주_사진반영_초안.pdf": {
+    "bytes": 369943,
+    "sha256": "2c06df96c8c57b15f2271423a948b23410f65a422f034eb5f9e2cb6c2cd3eab0"
+  },
+  "screenshots/스크린샷 2026-11-08 170501.png": {
+    "bytes": 21376,
+    "sha256": "96c67934da24d9a3f12cab13421d2d721dabceb958c755e556e7c0c833b2fb60"
+  },
+  "screenshots/스크린샷 2026-11-08 170118.png": {
+    "bytes": 132453,
+    "sha256": "47235ae0d5c7e247d51a1521f581b78dfe0c7ae212f455726d5ddd8aaf5faeef"
+  },
+  "screenshots/스크린샷 2026-11-08 170051.png": {
+    "bytes": 45810,
+    "sha256": "f559987d9f1c27ed048bc85e348178da915b3af4239e415aba54029e59a0b1da"
+  },
+  "screenshots/스크린샷 2026-11-08 170247.png": {
+    "bytes": 34858,
+    "sha256": "da381fa5367dfad2320c29fde03b9dbc72a1d7b495a8b4d766cd0ff20114f48a"
+  },
+  "screenshots/스크린샷 2026-11-08 170026.png": {
+    "bytes": 52539,
+    "sha256": "6a32b9cded5a6ec0e2bf239c0ac2140a60ed4b448d00e130b1aee23e33db9f5d"
+  },
+  "screenshots/스크린샷 2026-11-08 170310.png": {
+    "bytes": 36684,
+    "sha256": "4471fc45e8a9e908ab18412e593aa5187b82f70a1654f378d14e66e2ccf793bc"
+  },
+  "screenshots/스크린샷 2026-11-08 170451.png": {
+    "bytes": 22181,
+    "sha256": "e3809cb0cb7c546f2977865259b87e3510f1cb5acdae8123f452f7dc9b552f05"
+  },
+  "testbench/tb_d_ff_async.vhd": {
+    "bytes": 907,
+    "sha256": "60b347e60e30f6311a78dea679ae44d90815c89d42790117b3a0b68db321f1b6"
+  },
+  "testbench/tb_jk_flipflop.vhd": {
+    "bytes": 867,
+    "sha256": "89053b94022bf85ca99a32799f62823ed7ba4c1db214dbadeddbfa17abd362b4"
+  },
+  "testbench/tb_d_latch.vhd": {
+    "bytes": 641,
+    "sha256": "d4fbd8cc1ba0430f6b6a06d448009a87b65c16326d35d638133132f38c98c8cb"
+  },
+  "testbench/tb_d_flipflop.vhd": {
+    "bytes": 748,
+    "sha256": "12f3a1437a31915b5a02c78f860208300873b0e72b274b7bd4d123f544700c81"
+  },
+  "testbench/tb_rs_latch.vhd": {
+    "bytes": 837,
+    "sha256": "e28a7e8e85a88c8ae96deddfa39378585a61a4f034a5a8e605058b9fdfdbafaa"
+  },
+  "vhd/d_ff_async.vhd": {
+    "bytes": 472,
+    "sha256": "158d99a0158f6d45e211a207339624f1e161c6a9bd3c25f71113d9d415e4a563"
+  },
+  "vhd/d_latch.vhd": {
+    "bytes": 335,
+    "sha256": "a24fae240d4946ed443383e1f1d172e27f08670963adb3328a126c2e9221e8a8"
+  },
+  "vhd/jk_flipflop.vhd": {
+    "bytes": 544,
+    "sha256": "2fb6cb90e0e8b87d015b89086aade08b18ca7c282d180f96571a6697b707eae7"
+  },
+  "vhd/rs_latch.vhd": {
+    "bytes": 521,
+    "sha256": "8cab1d1ffb6e016f26004036a04a573ed45a21e1747636c3532a2f91dac74469"
+  },
+  "vhd/d_flipflop.vhd": {
+    "bytes": 352,
+    "sha256": "1618ebc6cae8e16371a3546f24b53b0ffd04524e4acfc36bacf9cf7f64e3775d"
+  },
+  "circ/d_ff_async_gate.circ": {
+    "bytes": 14107,
+    "sha256": "6625d324c37c0d312a21dcc57f0d8416255d142e6975c194fe4ef1e4fb02f9e8"
+  },
+  "circ/d_flipflop_gate.circ": {
+    "bytes": 6751,
+    "sha256": "2702a281aa0f06d985682e790df1d58f9fc0bc90fa75b610107bfc6f3b6f4dc0"
+  },
+  "circ/rs_latch_gate.circ": {
+    "bytes": 3028,
+    "sha256": "123cb6d7c44bfaf0819fe3cd0e671766fe2399b8927d5a1badf86d2731a7f8f7"
+  },
+  "circ/d_latch_gate.circ": {
+    "bytes": 4245,
+    "sha256": "9019bf2667d9c73ed6ec946dda8d2b3bd4fdccf2c9fd87bb64eb4327c62da97e"
+  },
+  "circ/jk_flipflop_gate.circ": {
+    "bytes": 8769,
+    "sha256": "4f82f389ea16d08d478cb0e803928b83347db55680babad2c09f646989710e19"
+  }
+}
